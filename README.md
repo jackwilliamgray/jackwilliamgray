@@ -29,7 +29,9 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jackwilliamgray&show_icons=true&count_private=true&theme=radical" width="350"></a>
-    <br/>  only recently converted from gitlab, stats still a bit low
+    <br/>  only recently converted from bitbucket, stats still a bit low
+  <br/>
+ <a href="#"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jackgray&theme=radical" width="350"></a> 
 </p>
 <p align='center'>
 
