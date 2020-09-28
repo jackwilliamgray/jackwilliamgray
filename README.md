@@ -12,6 +12,9 @@
   <a href="https://www.linkedin.com/in/jackwilliamgray">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+   <a href="https://dev.to/jackgray">
+    <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />        
+  </a>&nbsp;&nbsp;
   <a href="https://instagram.com/jackwilliamgray">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
