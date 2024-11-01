@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  I'm a Full Stack JS and .NET developer from Brisbane, Australia. 
+  I'm a Full Stack Typescript and .NET developer from Brisbane, Australia. 
 </p>
 
 <p align='center'>
