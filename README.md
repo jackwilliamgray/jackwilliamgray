@@ -31,14 +31,6 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jackwilliamgray&show_icons=true&count_private=true&theme=radical" width="50%"></a>
-    <br/>  Primarily use azure repos :)
-</p>
-<p align='center'>
-
-</p>
-
-<p align='center'>
   <a href="#">
 <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=for-the-badge&logo=xamarin&logoColor=white" />        
